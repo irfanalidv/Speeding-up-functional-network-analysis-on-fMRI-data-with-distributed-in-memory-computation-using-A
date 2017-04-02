@@ -11,4 +11,4 @@ In this work, our focus will first be on the distributed computation approach wi
 Design and implement in-memory data partitioning algorithm for fMRI processing
 Implement critical path algorithms in fMRI processing like correlation, registration into Resilient Distributed Dataset functions on Spark
 Integrate the Spark code on cluster management platform with neuroimaging management software (XNAT)
-
+skhskdk
